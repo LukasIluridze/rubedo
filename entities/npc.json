@@ -7,11 +7,6 @@
       "is_summonable": true,
       "is_experimental": false
     },
-    "component_groups": {
-      "despawn": {
-        "minecraft:instant_despawn": {}
-      }
-    },
     "components": {
       "minecraft:damage_sensor": {
         "triggers": {
